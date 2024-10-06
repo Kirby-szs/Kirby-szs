@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kirby-szs
 - 👀 I’m interested in making websites, music and other nerdy things :)
 - 🌱 I’m currently learning: html, lua, and some other languages <3
-- 😄 Pronouns: He/him >:
 - ⚡ Fun fact: i know piano & trumpet (yes i am a band kid)
 
 <!---
